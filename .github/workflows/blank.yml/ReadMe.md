@@ -5,14 +5,16 @@ This project provides experience working with markdown, Git/GitHub, and IT-
 related concepts and knowledge.
 
 ## My story
-I was born and I will die. - Edgar Alan Pope
+I'm a college student getting my degree in Infortmation Technology.
+
 ## My dream job
-Petting Cats
+Is to own a million cats.
+
 ## Sites that I use
 I prefer using these sites:
-* My favorite search engine is [Google](https://.com)
-* I read a lot about things on [Wikipedia](https://en.wikipedia.org)
-* For communication, I usually use email. [Google](maryryan3809@gmail.com)
+* My favorite search engine is [Google](https://google.com)
+* I read a lot about things on [Reddit](https://reddit.com)
+* For communication, I usually use email. [Google](rachelpipitone@gmail.com)
 
 
 ## My past work
@@ -46,8 +48,5 @@ Here is a quick sample of my work I did previously:
 ```
 
 ##Hobbies
-I am a big fan of arts. For example, what can you say about these pieces of art? 
+I am a big fan of art. I enjoy drawing and painting. I also love taking my dogs on walks and eating cheese.
 <br>
-![Philadelphia's Magic Gardens. This place was so cool!](https://d33wubrfki0l68.cloudfront.net/eab45e25bb79970178fab7a2d10cba0209372a59/94d9e/assets/images/philly-magic-garden.jpg "Philadelphia's Magic Gardens")
-<br>
-
