@@ -8,7 +8,7 @@ related concepts and knowledge.
 I'm a college student getting my degree in Infortmation Technology.
 
 ## My dream job
-Is to own a million cats.
+My dream is to own a million cats.
 
 ## Sites that I use
 I prefer using these sites:
