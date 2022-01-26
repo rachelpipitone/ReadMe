@@ -5,10 +5,10 @@ This project provides experience working with markdown, Git/GitHub, and IT-
 related concepts and knowledge.
 
 ## My story
-I'm a college student getting my degree in Infortmation Technology.
+I'm a college student earning my degree in Infortmation Technology.
 
 ## My dream job
-My dream is to own a million cats.
+My dream is to be a professional food taste tester.
 
 ## Sites that I use
 I prefer using these sites:
@@ -48,5 +48,5 @@ Here is a quick sample of my work I did previously:
 ```
 
 ##Hobbies
-I am a big fan of art. I enjoy drawing and painting. I also love taking my dogs on walks and eating cheese.
+I enjoy drawing, playing the piano, and playing with my dog and cat.
 <br>
